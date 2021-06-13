@@ -1,14 +1,14 @@
 <template>
-<!--adicionei a tag v-app pra encapsular toda a aplicação, assim funciona todas os atributos dentro das tags do vuetify-->
-   <v-app class="red lighten-4">
+<!--tag v-app pra encapsular toda a aplicação, assim funciona todas os atributos dentro das tags do vuetify-->
+   <v-app >
       <nav>
-        <v-app-bar app >
-          <v-icon left light>search</v-icon>
+        <v-app-bar  outlined elevation="0">
         </v-app-bar>
     </nav>
      <main-nav-bar/>
-     <router-view class="mt-16"/>
+     <router-view class="ml-16 mt-6 pl-6"/>
   </v-app>
+
 </template>
 
 
@@ -29,5 +29,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center; */
   color: #2f2f2f;
+  background-color:#E9EBEE;
 }
 </style>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59.3" height="45.97" viewBox="0 0 59.3 45.97">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <g>
+            <circle cx="52.64" cy="6.65" r="6.65" style="fill: #0e0e0f"/>
+            <circle cx="6.65" cy="6.65" r="6.65" style="fill: #0e0e0f"/>
+          </g>
+          <path d="M18.88,30.16H40.42a2.08,2.08,0,0,1,2.08,2.08v.89A12.85,12.85,0,0,1,29.65,46h0A12.85,12.85,0,0,1,16.8,33.12v-.89a2.08,2.08,0,0,1,2.08-2.08Z" style="fill: #0e0e0f"/>
+        </g>
+        <ellipse cx="29.72" cy="41.47" rx="6.5" ry="2.5" style="fill: #ed6855"/>
+      </g>
+    </g>
+  </g>
+</svg>

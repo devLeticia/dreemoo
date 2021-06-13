@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79.57" height="45.94" viewBox="0 0 79.57 45.94">
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <path d="M20.57,2.38c-2.34,1.28-6.8,2-11,1.68C4.29,3.73,2.16,2.13,2,2" style="fill: none;stroke: #1d1d1b;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 4px"/>
+          <path d="M77.57,2.38c-2.34,1.28-6.8,2-11,1.68C61.29,3.73,59.16,2.13,59,2" style="fill: none;stroke: #1d1d1b;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 4px"/>
+        </g>
+        <path d="M29,30.12H50.51a2.08,2.08,0,0,1,2.08,2.08v.89A12.85,12.85,0,0,1,39.74,45.94h0A12.85,12.85,0,0,1,26.89,33.09V32.2A2.08,2.08,0,0,1,29,30.12Z" style="fill: #0e0e0f"/>
+        <ellipse cx="39.52" cy="41.09" rx="6.5" ry="2.5" style="fill: #ed6855"/>
+      </g>
+    </g>
+  </g>
+</svg>
